@@ -1,0 +1,14 @@
+D:\study\C#\demo\asynctest\asynctest\bin\Debug\net6.0\asynctest.exe
+D:\study\C#\demo\asynctest\asynctest\bin\Debug\net6.0\asynctest.deps.json
+D:\study\C#\demo\asynctest\asynctest\bin\Debug\net6.0\asynctest.runtimeconfig.json
+D:\study\C#\demo\asynctest\asynctest\bin\Debug\net6.0\asynctest.dll
+D:\study\C#\demo\asynctest\asynctest\bin\Debug\net6.0\asynctest.pdb
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.AssemblyInfoInputs.cache
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.AssemblyInfo.cs
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.csproj.CoreCompileInputs.cache
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.dll
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\refint\asynctest.dll
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.pdb
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\asynctest.genruntimeconfig.cache
+D:\study\C#\demo\asynctest\asynctest\obj\Debug\net6.0\ref\asynctest.dll
